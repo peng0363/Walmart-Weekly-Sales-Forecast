@@ -11,4 +11,5 @@ Due to the large size of our data file, the Python codes and raw data files are 
 https://drive.google.com/drive/folders/1tmWvOgDHg5DUjxqgeoN_3eIpAKPJs9Hs?usp=sharing
 
 The Raw Data file contains all the data files used. The original data source is https://www.kaggle.com/divyajeetthakur/walmart-sales-prediction/.
+
 The Model file contains all the models attempted, including SARIMAX, Prophet, Prophet + XGBoost and Neural Network. 
