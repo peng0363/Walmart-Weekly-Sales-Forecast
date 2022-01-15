@@ -1,5 +1,6 @@
 # Walmart-Weekly-Sales-Forecast
 This project is collaborated by Chu-Yun Hsiao, Hao-Chun Niu, Shu-Yun Liu and Yu-Chun Peng.
+
 We are data scientists who are passionate about retail industry. We also notice that time series is a relatively important topic in sales prediction. Hence, we decided to take sales data from Walmart (2010~2013) as an example and created a time series model to predict 45 different Walmart stores’ sales. We ended up using same parameters and machine learning methods to develop Forecast Models for each store. Thus, we have total 45 Forecasting Models for these 45 stores.
 
 The visualization part of the project is done using Tableau dashboard. The access links are as below:
