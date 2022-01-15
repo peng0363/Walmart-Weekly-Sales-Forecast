@@ -12,4 +12,3 @@ https://drive.google.com/drive/folders/1tmWvOgDHg5DUjxqgeoN_3eIpAKPJs9Hs?usp=sha
 The Model file contains all the models attempted, including SARIMAX, Prophet, Prophet + XGBoost and Neural Network.
 The Raw Data file contains all the data files used. The original data source is from Kaggle. Link as below:  
 https://www.kaggle.com/divyajeetthakur/walmart-sales-prediction/.
-
